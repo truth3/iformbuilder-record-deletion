@@ -12,6 +12,6 @@ $server = '#####'; //apple
 $client = '#####'; //abc123
 $secret = '#####'; //abc123
 $profileId = '#####'; //123456
-$pageArray = ["#####",["#####"]];
-$fieldGrammar = 'fields=id(!="0")';
+$pageArray = ["#####", "#####"];
+$fieldGrammar = 'fields=id(!=%220%22)';
 ?>
